@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These are the pictures of me and my wife (Elahe) that we use as our system background images. On Arch, I use [feh](https://github.com/derf/feh) and I only need to clone this into `~/Pictures/Gosimac`.
+These are the pictures of me and my wife (Elaheh) that we use as our system background images. On Arch, I use [feh](https://github.com/derf/feh) and I only need to clone this into `~/Pictures/Gosimac`.
 
 All images live in [`normalized/`](normalized/), cropped to a uniform **2560×1664** so they fill the screen edge-to-edge.
 
